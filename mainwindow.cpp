@@ -169,7 +169,7 @@ void MainWindow::on_pushButton_clicked()
             str1=ui->tableWidget_2->item(1,i)->text();
             data[0][i]=str0.toFloat();
             data[1][i]=str1.toFloat();
-            piancha[i]=data[0][i]-data[1][i];
+            piancha[i]=data[1][i] - data[0][i];
             str2=QString::number(piancha[i],'g',6);
             ui->tableWidget_2->setItem(2,i,new QTableWidgetItem(str2));
         }
@@ -238,7 +238,7 @@ void MainWindow::on_pushButton_2_clicked()
             str1=ui->tableWidget_3->item(1,i)->text();
             data[0][i]=str0.toFloat();
             data[1][i]=str1.toFloat();
-            piancha[i]=data[0][i]-data[1][i];
+            piancha[i]=data[1][i] - data[0][i];
             str2=QString::number(piancha[i],'g',6);
             ui->tableWidget_3->setItem(2,i,new QTableWidgetItem(str2));
         }
