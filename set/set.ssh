@@ -1,0 +1,1 @@
+sudo cp ./51-usb.rules  /etc/udev/rules.d/

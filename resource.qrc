@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>icon/reset.png</file>
+        <file>icon/start.png</file>
+        <file>icon/stop.png</file>
+        <file>pic/SRR308.png</file>
+        <file>pic/SRR308_02.png</file>
+        <file>pic/SRR308_01.png</file>
+        <file>pic/SRR308硬件连接图.png</file>
+        <file>pic/SRR308雷达.png</file>
+        <file>pic/SRR308接口情况.png</file>
+        <file>pic/SRR308核心数据指标.png</file>
+        <file>pic/SRR308覆盖效果图.png</file>
+        <file>pic/SRR308覆盖效果图600.png</file>
+        <file>pic/SRR308雷达实物图600.png</file>
+        <file>pic/SRR308核心数据指标600.png</file>
+        <file>pic/硬件连接.txt</file>
+        <file>pic/雷达硬件连接图.docx</file>
+        <file>pic/SRR308原理功能介绍.txt</file>
+        <file>pic/SRR308雷达实物图.png</file>
+        <file>pic/ARS408原理功能介绍.txt</file>
+        <file>pic/ARS408实物图600.png</file>
+        <file>pic/ARS408实物图.png</file>
+        <file>pic/ARS408核心数据指标2.png</file>
+        <file>pic/ARS408核心数据指标1.png</file>
+        <file>pic/ARS408覆盖效果图600.png</file>
+        <file>pic/ARS408覆盖效果图.png</file>
+        <file>pic/SRR308雷达实物图400.png</file>
+        <file>pic/SRR308姿态角度示意图.png</file>
+    </qresource>
+</RCC>
